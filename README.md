@@ -2,6 +2,8 @@
 
 This example allows you to deploy a remote MCP server that doesn't require authentication on Cloudflare Workers. 
 
+
+
 ## Get started: 
 
 [![Deploy to Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/ai/tree/main/demos/remote-mcp-authless)
